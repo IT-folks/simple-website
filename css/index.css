@@ -1,0 +1,23 @@
+h1 {
+    color:rgb(100,100,100);
+    text-align: center;
+}
+
+p {
+    color:rgb(100,100,100);
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 5%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    color:rgb(100,100,100);
+    display: block;
+    text-align: center;
+}
