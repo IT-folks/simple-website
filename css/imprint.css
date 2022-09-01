@@ -1,18 +1,19 @@
 h2 {
     color:rgb(100,100,100);
     text-align: center;
-    font-size: 1.5vw;
+    font-size: 25pt;
 }
 
 h3 {
     color:rgb(100,100,100);
     text-align: center;
+    text-size: 20pt;
 }
 
 p {
     color:rgb(100,100,100);
     text-align: center;
-    font-size: 1vw;
+    font-size: 15pt;
 }
 
 div#home {
@@ -23,6 +24,6 @@ div#home {
     left: 0;
     right: 0;
     padding: 10px;
-    font-size: 1vw;
+    font-size: 15pt;
   }
 
