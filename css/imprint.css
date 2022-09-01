@@ -2,18 +2,21 @@ h2 {
     color:rgb(100,100,100);
     text-align: center;
     font-size: 25pt;
+    font-size: 2.5vw;
 }
 
 h3 {
     color:rgb(100,100,100);
     text-align: center;
     text-size: 20pt;
+    font-size: 1.7vw;
 }
 
 p {
     color:rgb(100,100,100);
     text-align: center;
     font-size: 15pt;
+    font-size: 1vw;
 }
 
 div#home {
@@ -25,5 +28,6 @@ div#home {
     right: 0;
     padding: 10px;
     font-size: 15pt;
+    font-size: 1vw;
   }
 
