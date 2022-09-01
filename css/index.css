@@ -19,9 +19,12 @@ img {
     margin-right: auto;
 }
 
-footer {
-    color:rgb(100,100,100);
-    display: block;
-    /* text-align: center; */
-    font-size: 25px;
-}
+div#imprint {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    /* And if you want the div to be full-width: */
+    left: 0;
+    right: 0;
+    padding: 10px;
+  }
